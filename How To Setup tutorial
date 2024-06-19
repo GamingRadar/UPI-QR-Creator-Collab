@@ -1,0 +1,20 @@
+How to Setup
+1.Download and Setup
+ Download the project as a ZIP file from the repository.
+ Extract the ZIP file to your local machine.
+
+2.Using Google Colab
+ Open Google Colab (colab.research.google.com).
+ Click on "File" -> "Upload notebook".
+ Select the .ipynb file (UPI_QR_Creator.ipynb) from the extracted folder.
+ Run the notebook sequentially from top to bottom.
+
+3.Alternative: Using Python File
+ For IDEs, locate and use the provided .py file (UPI_QR_Creator.py) in the extracted folder.
+ Ensure all required libraries (qrcode, Pillow, IPython) are installed in your environment.
+ Run the script to generate UPI QR codes.
+
+4.Feedback and Contributions
+ Feel free to modify and enhance the project.
+ Tag me on LinkedIn(https://in.linkedin.com/in/devashish-tambade-228010196) with any improvements or feedback.
+ Happy learning and experimenting with UPI QR Creator!
